@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/luoghi/elvindal/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/luoghi/elvindal/"}
 ---
 
 
