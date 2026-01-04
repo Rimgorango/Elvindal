@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/luoghi/citta/area-consorzio/ambasciata-mustella/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/luoghi/citta/area-consorzio/ambasciata-mustella/"}
 ---
 
 
