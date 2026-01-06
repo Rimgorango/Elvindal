@@ -6,7 +6,7 @@
 
 Unico avamposto [[Mustella/Mustella\|Mustella]] sull'isola di [[Luoghi/Elvindal\|Elvindal]]. Si tratta di una piccola palafitta circa 40 mq su due piani.
 
-![Ambasciata Mustella.jpg|350](/img/user/img/IMG_Mustella/Ambasciata%20Mustella.jpg)
+![Ambasciata_Mustella.jpg|350](/img/user/img/IMG_Mustella/Ambasciata_Mustella.jpg)
 
 
 Essendo sospesa sull'acqua ad un 15 metri dalla riva, tecnicamente, non appartiene al territori dell'isola principale e quindi fuori la giurisdizione del Consorzio.

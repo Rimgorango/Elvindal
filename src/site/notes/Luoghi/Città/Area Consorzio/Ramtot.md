@@ -7,7 +7,7 @@ Città portuale in cui è presente l'unica ambasciata delle tribù [[Mustella/Mu
 
 ---
 
-![Ramtot-Num.jpg](/img/user/img/Ramtot-Num.jpg)
+![Ramtot-Num.jpg](/img/user/img/IMG_Citt%C3%A0/Ramtot-Num.jpg)
 
 Legenda:
 1. Ambasciata Mustella

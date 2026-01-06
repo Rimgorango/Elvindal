@@ -4,6 +4,7 @@
 
 Ispirata alla canzone Guataqui - Martina Camargo (https://www.youtube.com/watch?v=ElJPIAw9T6Q)
 
+E' una delle canzoni 
 Il testo dei Mustella può essere interpretato come segue:
 
 **Ritornello 1:**

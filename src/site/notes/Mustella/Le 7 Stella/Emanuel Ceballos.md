@@ -6,7 +6,7 @@ Emanuel, ermellino Protettore (M).
 
 Il suo nome di "battesimo" datogli da [[Letherna\|Letherna]] è **Manumal**.
 
-Il suo giuramento, detto anche [[Incanti/Doni/Giuramento del Focolare\|Giuramento del Focolare]]:
+Il suo giuramento, detto anche [[Incanti/Doni/Giuramento del Focolare\|Incanti/Doni/Giuramento del Focolare]]:
 
 - **Pace.** La violenza è l'arma da usare come ultima risorsa. I gesti pieni di comprensione ed accoglienza sono le vie che conducono alla vera armonia ed alla pace duratura.  
   

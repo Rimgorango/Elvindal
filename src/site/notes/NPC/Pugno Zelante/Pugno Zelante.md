@@ -8,26 +8,16 @@ Sull'isola di [[Luoghi/Elvindal\|Elvindal]] è stata convocata dal [[Consorzio/C
 
 
 
-| Città          | Unità |
-| -------------- | ----- |
-| Dalot (C)      | 300   |
-| Kaloph(MG)     | 150   |
-| Madasi (MG)    | 150   |
-| Kelkoph (M)    | 50    |
-| Visa (M)       | 50    |
-| Deraph (M)     | 50    |
-| Dosa (M)       | 50    |
-| Meltot (M)     | 50    |
-| [[Luoghi/Città/Area Consorzio/Ramtot\|Ramtot]] (M) | 50    |
-| Toron (MP)     | 25    |
-| Soyr (MP)      | 25    |
-| Sint (P)       | 5     |
-| Selk (P)       | 5     |
-| Reta (P)       | 5     |
-| Bissip  (P)    | 5     |
-| Kadot (P)      | 5     |
-| Pamtoph (P)    | 5     |
-| Karti  (P)     | 5     |
-| Litrot (P)     | 5     |
-| Doh  (P)       | 5     |
-| Rito  (P)      | 150   |
+| Città          | Unità | Città       | Unità |
+| -------------- | ----- | ----------- | ----- |
+| Dalot (C)      | 300   | Sint (P)    | 5     |
+| Kaloph(MG)     | 150   | Selk (P)    | 5     |
+| Madasi (MG)    | 150   | Reta (P)    | 5     |
+| Kelkoph (M)    | 50    | Bissip  (P) | 5     |
+| Visa (M)       | 50    | Kadot (P)   | 5     |
+| Deraph (M)     | 50    | Pamtoph (P) | 5     |
+| Dosa (M)       | 50    | Karti  (P)  | 5     |
+| Meltot (M)     | 50    | Litrot (P)  | 5     |
+| [[Luoghi/Città/Area Consorzio/Ramtot\|Ramtot]] (M) | 50    | Doh  (P)    | 5     |
+| Toron (MP)     | 25    | Rito  (P)   | 150   |
+| Soyr (MP)      | 25    |             |       |
