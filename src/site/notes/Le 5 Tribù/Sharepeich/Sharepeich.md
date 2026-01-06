@@ -5,5 +5,11 @@
 
 
 
+<iframe src="/img/user/pdf/pdf_5_Trib%C3%B9/Stile_Sharepeich.pdf" width="100%" height="900px" title="Stile_Sharepeich.pdf" style="border:1px solid #ccc;"></iframe>
 
-![Solo_Sharepaich.jpg|350](/img/user/img/IMG_Le%205%20Trub%C3%B9/Solo_Sharepaich.jpg)
+
+Mood delle città
+
+
+
+
