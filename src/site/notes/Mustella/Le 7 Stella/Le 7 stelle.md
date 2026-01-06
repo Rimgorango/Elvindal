@@ -7,7 +7,7 @@ Sono i 7 mustelidi che guidano questo particolare popolo, i [[Mustella/Mustella\
 Si fanno chiamare dai loro simili con i seguenti nomi: 
 - [[Mustella/Le 7 Stella/Vipera de la Muerte\|Vipera de la Muerte]]
 - [[Mustella/Le 7 Stella/Pabu\|Pabu]]
-- [[Mustella/Le 7 Stella/Emanuel Ceballos\|Emanuel Ceballos]] (attualmente disperso nel Piano delle Ombre)
+- [[Mustella/Le 7 Stella/Immanuel Ceballos\|Immanuel Ceballos]] (attualmente disperso nel Piano delle Ombre)
 - [[Mustella/Le 7 Stella/Nikolenka Widra\|Nikolenka Widra]]
 - [[Mustella/Le 7 Stella/Tessa Clann\|Tessa Clann]]
 - [[Mustella/Le 7 Stella/Paul Van Otter\|Paul Van Otter]]
