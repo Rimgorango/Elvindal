@@ -3,6 +3,7 @@
 ---
 
 Associazione di mercenari, diffusa in tutto il Faerun, ma che ha le sue origini nella Città di Murghyr (regno di Mulhorand)
+![Pugno_Zelante_Stemma.png|300](/img/user/img/Pugno_Zelante_Stemma.png)
 
 Sull'isola di [[Luoghi/Elvindal\|Elvindal]] è stata convocata dal [[Consorzio/Consorzio\|Consorzio]] a dispiegare un Battaglione (circa 1145 unità)
 

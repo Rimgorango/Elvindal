@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/le-5-tribu/gwan/gwan/"}
 ---
 
+Significa "dipartiti".
 
 Sono considerati i sacerdoti delle 5 tribù, hanno il legame più stretto con la loro Signora la [[Regina Corvo\|Regina Corvo]] in quanto si occupano di mantenere vive la "vera storia" che ha portato Letherna a ciò che è ora.
 
