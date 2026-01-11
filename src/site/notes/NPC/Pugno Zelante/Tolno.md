@@ -3,3 +3,4 @@
 ---
 
 Umano, Vicetentene della X Brigata del [[NPC/Pugno Zelante/Pugno Zelante\|Pugno Zelante]]
+

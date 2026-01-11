@@ -4,7 +4,7 @@
 
 Un arcipelago di isole che, come fossero un atollo, circondano un'enorme voragine al cui centro si staglia una formazione rocciosa (per la quasi totalità [[Bianca Pietra\|Bianca Pietra]]).
 Questa "montagna sommersa" è ricoperta di chiazze di terriccio ed altri sedimenti che fanno da base per la crescita di un enorme conglomerato di alberi, i quali nei secoli si sono intrecciati caoticamente tra di loro formando un'unica conformazione vegetale che quasi sovrasta l'intero arcipelago.
-Questa enorme entità vegetale appartiene alla famiglia degli [[Artini\|Artini]] un gruppo di alberi autoctona di [[Luoghi/Elvindal\|Elvindal]], la varietà in questione (Artino Bianco) viene considerata la "primordiale" da cui le altre
+Questa enorme entità vegetale appartiene alla famiglia degli [[Artini\|Artini]] un gruppo di alberi autoctona di [[Luoghi/Elvindal\|Elvindal]], la varietà in questione (Artino Bianco) viene considerata la "primordiale" da cui le altre derivano.
 
 
 Nel suo insieme:

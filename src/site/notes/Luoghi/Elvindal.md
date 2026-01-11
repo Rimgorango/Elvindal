@@ -12,7 +12,7 @@ Quello che vediamo oggi e la trasformazione dei resti della mano del titano [[Av
 
 ```leaflet  
 id: Elvindal  
-image: [[Elvindal_map.png]] ### Link to the map image file. Do not add a ! in front of the image  
+image: [[Elvindal_map_HD.png]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [768, 1024]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 450px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
@@ -25,5 +25,7 @@ zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.
 unit: miter ### The value displayed when measuring so you know what type of unit is being measure.  
 scale: 0.013157894736842105 ### Real units/px (resolution) of your map  
 recenter: false  
-darkmode: false ### marker
+darkmode: false ### 
+markermarker: Capitale,488.79386138916016,793.3267471801984,,,,
+
 ```

@@ -7,4 +7,4 @@ Per la maggior parte inesplorate, in piccola parte sono state sfruttate per la c
 
 
 
-![[Vie-Sotterranee.jpg\|Vie-Sotterranee.jpg]]
+![Vie_Sotterranee.jpg](/img/user/img/Vie_Sotterranee.jpg)
